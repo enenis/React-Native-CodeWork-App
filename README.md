@@ -3,23 +3,23 @@
 <hr>
 <br><b>Detailed Photos;</b><br>
 <br><b>Loading Screen:<br></b>
-<img src="https://user-images.githubusercontent.com/99321522/221856295-b6bdd570-3fd1-4045-afe9-f2e73c839a90.png" width="350" height="700" />
+<img src="https://user-images.githubusercontent.com/99321522/221856295-b6bdd570-3fd1-4045-afe9-f2e73c839a90.png" width="350" height="800" />
 <br>
 <hr>
 <br><b>Job's Screen:<br></b>
-<img src="https://user-images.githubusercontent.com/99321522/221856406-eb6d5eff-fc50-4f85-91a1-b550713033e2.png" width="350" height="700" />
+<img src="https://user-images.githubusercontent.com/99321522/221856406-eb6d5eff-fc50-4f85-91a1-b550713033e2.png" width="350" height="800" />
 <br>
 <hr>
 <b>Job Detail Screen:<br></b>
-<img src="https://user-images.githubusercontent.com/99321522/221353998-6d9e94a5-7bc2-48a9-8d80-cad14486132d.png" width="350" height="700" />
+<img src="https://user-images.githubusercontent.com/99321522/221353998-6d9e94a5-7bc2-48a9-8d80-cad14486132d.png" width="350" height="800" />
 <br>
 <hr>
 <b>Add Favorite Screen:<br></b>
-<img src="https://user-images.githubusercontent.com/99321522/221353998-6d9e94a5-7bc2-48a9-8d80-cad14486132d.png" width="350" height="700" />
+<img src="https://user-images.githubusercontent.com/99321522/221353998-6d9e94a5-7bc2-48a9-8d80-cad14486132d.png" width="350" height="800" />
 <br>
 <hr>
 <b>Favorite Page and Remove Section Screen:<br></b>
-<img src="https://user-images.githubusercontent.com/99321522/221353998-6d9e94a5-7bc2-48a9-8d80-cad14486132d.png" width="350" height="700" />
+<img src="https://user-images.githubusercontent.com/99321522/221353998-6d9e94a5-7bc2-48a9-8d80-cad14486132d.png" width="350" height="800" />
 <br>
 <small>Thank you so much for reading and reviewing this far.</small><br>
 ~Enis Kayra Yavuz

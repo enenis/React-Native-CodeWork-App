@@ -15,7 +15,7 @@
 <br>
 <hr>
 <b>Add Favorite Screen:<br></b>
-<img src="https://user-images.githubusercontent.com/99321522/221353998-6d9e94a5-7bc2-48a9-8d80-cad14486132d.png" width="350" height="800" />
+<img src="https://user-images.githubusercontent.com/99321522/221856847-80e5b17d-637e-4226-831b-7de192730998.png" width="350" height="800" />
 <br>
 <hr>
 <b>Favorite Page and Remove Section Screen:<br></b>
@@ -24,6 +24,7 @@
 <small>Thank you so much for reading and reviewing this far.</small><br>
 ~Enis Kayra Yavuz
 enenissoftware
+![Screenshot_1677587132]()
 
 <hr>
 <br>

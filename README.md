@@ -7,7 +7,7 @@
 <br>
 <hr>
 <br><b>Job's Screen:<br></b>
-<img src="https://user-images.githubusercontent.com/99321522/221353973-b39766d4-7ba4-4c6e-b17b-e92e976f2f7e.png" width="350" height="700" />
+<img src="https://user-images.githubusercontent.com/99321522/221856406-eb6d5eff-fc50-4f85-91a1-b550713033e2.png" width="350" height="700" />
 <br>
 <hr>
 <b>Job Detail Screen:<br></b>
@@ -28,5 +28,6 @@ enenissoftware
 <hr>
 <br>
 ![Screenshot_1677587121]()
+![Screenshot_1677587124](
 
 <b></b>

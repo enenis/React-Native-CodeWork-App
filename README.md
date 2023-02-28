@@ -24,13 +24,7 @@
 <small>Thank you so much for reading and reviewing this far.</small><br>
 ~Enis Kayra Yavuz
 enenissoftware
-![Screenshot_1677587132]()
-![Screenshot_1677588130]()
 
 <hr>
 <br>
-![Screenshot_1677587121]()
-![Screenshot_1677587124](
-![Screenshot_1677587126]()
 
-<b></b>

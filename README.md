@@ -11,7 +11,7 @@
 <br>
 <hr>
 <b>Job Detail Screen:<br></b>
-<img src="https://user-images.githubusercontent.com/99321522/221353998-6d9e94a5-7bc2-48a9-8d80-cad14486132d.png" width="350" height="800" />
+<img src="https://user-images.githubusercontent.com/99321522/221856686-372361f7-3a65-4633-ae32-3ac87057ae83.png" width="350" height="800" />
 <br>
 <hr>
 <b>Add Favorite Screen:<br></b>
@@ -29,5 +29,6 @@ enenissoftware
 <br>
 ![Screenshot_1677587121]()
 ![Screenshot_1677587124](
+![Screenshot_1677587126]()
 
 <b></b>

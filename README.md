@@ -19,12 +19,13 @@
 <br>
 <hr>
 <b>Favorite Page and Remove Section Screen:<br></b>
-<img src="https://user-images.githubusercontent.com/99321522/221353998-6d9e94a5-7bc2-48a9-8d80-cad14486132d.png" width="350" height="800" />
+<img src="https://user-images.githubusercontent.com/99321522/221857180-fd842076-fab7-4765-abd2-488b1fe46b5f.png" width="350" height="800" />
 <br>
 <small>Thank you so much for reading and reviewing this far.</small><br>
 ~Enis Kayra Yavuz
 enenissoftware
 ![Screenshot_1677587132]()
+![Screenshot_1677588130]()
 
 <hr>
 <br>

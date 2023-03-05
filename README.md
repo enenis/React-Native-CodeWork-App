@@ -1,5 +1,5 @@
 <b>Title:</b> React-Native-CodeWork-App<br>
-<br><b>Content:</b> Hello, I made a job application in this project. In the application, you can click on the works coming from the api and go to their details, add them to the favorite and remove them from the favorite. Job application option is also partially active :)...
+<br><b>Content:</b> Hello, I made a job application in this project. In the application, you can click on the works coming from the api and go to their details, add them to the favorite and remove them from the favorite. Job application option is also partially active...
 <hr>
 <br><b>Detailed Photos;</b><br>
 <br><b>Loading Screen:<br></b>
